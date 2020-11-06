@@ -5,7 +5,7 @@ g=0
 suma=0
 nr=0
 while t<12:
-    g=eval(input("Temp medie= "))
+    g=eval(input("Dati temperatura:"))
     if g>=0:
         suma=suma+g
         nr+=1
